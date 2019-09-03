@@ -23,7 +23,7 @@ function App() {
         >
           Learn React
         </a>
-        <Button onClick={()=> alert("Ok") } variant="contained" color="primary">
+        <Button onClick={()=> alert("Ok!!") } variant="contained" color="primary">
           Hello World
     </Button>
       </header>
